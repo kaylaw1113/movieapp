@@ -1,0 +1,10 @@
+/Users/Kayla/Desktop/cidm3312/ToDoapi/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/Users/Kayla/Desktop/cidm3312/ToDoapi/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/Users/Kayla/Desktop/cidm3312/ToDoapi/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/Users/Kayla/Desktop/cidm3312/ToDoapi/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/Kayla/Desktop/cidm3312/ToDoapi/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/Users/Kayla/Desktop/cidm3312/ToDoapi/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Users/Kayla/Desktop/cidm3312/ToDoapi/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/Users/Kayla/Desktop/cidm3312/ToDoapi/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/Users/Kayla/Desktop/cidm3312/ToDoapi/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/Kayla/Desktop/cidm3312/ToDoapi/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
